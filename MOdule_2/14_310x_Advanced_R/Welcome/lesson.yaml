@@ -1,0 +1,38 @@
+- Class: meta
+  Course: edx-AdvancedR
+  Lesson: Welcome
+  Author: Fiona Tanuwidjaja
+  Type: Standard
+  Organization: MIT/JPAL
+  Version: 2.2.1
+
+
+- Class: text
+  Output: Welcome to the 14.310x Advanced R course! This short interactive course is designed
+    to provide you with knowledge that you will find useful when working with R during this course
+    (and beyond!). Note that while that none of the information presented here is necessary to
+    complete the assignments for 14.310x, this course is highly recommended, particularly for those
+    who plan to continue working with R following 14.310x. Are you ready to get started?
+    (If yes, hit the Enter key)
+
+- Class: text
+  Output: Great! Let's get to it. This course will utilize the interactive Swirl environment
+    again, which means that you'll navigate the interface in RStudio the same way you did
+    in the Intro to R course!
+
+- Class: text
+  Output: The course is broken down into 17 modules, excluding this Welcome one.
+    Each of these modules is about 15-20 min long, and will cover a specific set of topics. You can find the list 
+    of topics and commands within each module on the 14.310x edx page.
+
+- Class: text
+  Output: To navigate your way out of a module, if you are at the R prompt (there is a > arrow at the beginning of the line), type "info()" in the command prompt
+    to get a list of navigation options. Otherwise, you can return to the R prompt (>) at any time by pressing the Esc key. 
+    Does that make sense? 
+
+- Class: text
+  Output: One last thing-- you will likely need to install some new helpful packages in order to
+        run this course. The packages will help you later if you continue to use R and are mostly related
+        to graphics. When prompted in the command line to install new packages, please say Yes, or you will
+        be unable to complete this course! Have fun!
+
