@@ -1,0 +1,7 @@
+cp -r /usr/common/Bioinformatics/Nawaraj/I0452 .
+gunzip I0452/*.gz
+cd ../Code
+java Merge3b
+rm I0238/*.fastaq
+
+
